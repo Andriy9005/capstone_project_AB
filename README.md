@@ -17,6 +17,7 @@ Key metrics:
    -> profitability, net margin 
 
 Project phases: 
+
  a) dataset basic preparation and cleaning: 
       - removing the duplicates, irrelevant columns
       - handling with missing values
