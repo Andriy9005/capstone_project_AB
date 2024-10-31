@@ -3,7 +3,7 @@ Here is a brief map of the project with all the contents, listed  below.
 The CAPSTONE project. 
 Current situation: 
   the customer,  Lending club does not have the comprehensive decsision-based predictive tool for classifying loan applications. The current processes are outdated and often the decisions are made, 
-based on the case-be-case approach.
+based on the case-by-case approach, manually.
 
 Problem statement: 
  the board management states, that current practices are outdated  and time-consuming, the quality of loan portfolio can be improved, the risk-reward ratio - optimised, share of bad loand - decreased.
