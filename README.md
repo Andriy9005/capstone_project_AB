@@ -13,7 +13,8 @@ Hypothesis:
  adopting thr alternative, ML-based predictive model will improve the accuracy of decisions made.
 
 Key metrics: 
-   -> accuracy, the share of default loans
+   -> model accuracy, AUC, recall
+   -> the share of default loans
    -> profitability, net margin 
 
 Project phases: 
